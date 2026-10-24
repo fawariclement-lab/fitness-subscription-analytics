@@ -26,12 +26,13 @@ Approximately **$4.1M** if the current growth trend continues. Revenue grew from
 ## Repository Structure
 
 - `README.md` — this executive summary
-- `report.pbix` — the interactive report (Power BI) *(added with the report build)*
+- `FitnessHub_Subscription_Analytics.twbx` — the interactive Tableau report (cohort heatmap, revenue forecast, CAC vs LTV)
 - `data/Fitness_Subscriptions_Dataset.xlsx` — source data (customers + transactions)
-- `screenshots/cohort_analysis.png` — cohort retention matrix
-- `screenshots/revenue_forecast.png` — monthly revenue with 12-month forecast and 95% interval
-- `screenshots/cac_vs_ltv.png` — cumulative LTV vs CAC for the 2024 and 2025 cohorts
-- `screenshots/data_model.png` — data model diagram
+- `screenshots/dashboard.jpg` — the full dashboard
+- `screenshots/cohort_retention.jpg` — cohort retention matrix
+- `screenshots/revenue_forecast.jpg` — monthly revenue with 12-month forecast and 95% interval
+- `screenshots/cac_vs_ltv_2024.jpg` — cumulative LTV vs CAC, 2024 cohort (break-even month 5)
+- `screenshots/cac_vs_ltv_2025.jpg` — cumulative LTV vs CAC, 2025 cohort (break-even month 7)
 
 ## Method Notes
 
